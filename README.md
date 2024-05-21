@@ -75,7 +75,7 @@ python simple_code_structure.py
 
 
 :heavy_check_mark:
-![Llama](output_results/llama_rag.png)
+![Llama](output_results/llamarag.png)
 
 
 
