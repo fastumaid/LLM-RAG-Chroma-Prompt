@@ -43,12 +43,21 @@ Explain what these tests test and why
 Give an example
 ```
 
-### And coding style tests
+### Prompting/Coding style For the Exact Similar Output in Trial Examination Questionarre
 
-Explain what these tests test and why
+From llama_index.core we have used the Prompt Library in order to design the Prompt in the Desired Format.
+The "qa_template" used is producing the outputs in the required format as requested in the paper sample.
+
 
 ```
-Give an example
+    template = (
+        "We have provided context information below. \n"
+        "---------------------\n"
+        "{context_str}"
+        "\n---------------------\n"
+        "Given this information, please answer the question and each question should start with the word User: and each answer should start with code word Bot: {query_str}\n"
+    )
+
 ```
 
 ## Data Ingestion of Content
