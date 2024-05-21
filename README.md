@@ -31,17 +31,11 @@ pip install -r requirements.txt
 
 
 
-## Running the tests
+## Running the tests 
+1. LLAMA with RAG: We've used local database and LLAMA for querying the Response :point_left:
+2. Chroma DB with OpenAI Models: We've used Chroma database and LLM for querying the Response :point_left:
 
-Explain how to run the automated tests for this system
 
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ### Prompting/Coding style For the Exact Similar Output in Trial Examination Questionarre
 
@@ -62,7 +56,25 @@ The "qa_template" used is producing the outputs in the required format as reques
 
 ## Data Ingestion of Content
 
-The two PDF's are used for guiding the developed Chatbot. The PDF's are available in the "Data folder"
+The two PDF's are used for guiding the developed Chatbot. The PDF's are available in the "data" folder
+
+
+### The Outputs generated can be visualized in the Provided Screenshot 
+
+We have provided the :arrow_right: Jupyter Notebook & Also the :arrow_right: python_script for smooth testing of the designed project
+:white_check_mark: First Activate the Environment named as "market" and then Run the code
+
+
+```
+python simple_code_structure.py
+```
+
+### The Outputs generated can be visualized in the Provided Screenshot 
+:heavy_check_mark:
+:heavy_check_mark:
+
+
+
 
 ## Built With
 
