@@ -1,4 +1,4 @@
-# LLM-RAG-Chroma-Prompt
+# LLM-RAG-Chroma-Prompt :speech_balloon:
 This repository belongs to the trial project given by Gaditek for the Test Purposes. Syed Umaid has written this code in a way to run it through dual functionality (Local Database with llama and Chroma) Seperately
 
 # Project Title
