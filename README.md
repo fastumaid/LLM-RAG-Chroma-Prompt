@@ -71,7 +71,11 @@ python simple_code_structure.py
 
 ### The Outputs generated can be visualized in the Provided Screenshot 
 :heavy_check_mark:
+![Chroma](output_results/chroma_openai.png)
+
+
 :heavy_check_mark:
+![Llama](output_results/llama_rag.png)
 
 
 
